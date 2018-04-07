@@ -1,2 +1,1 @@
-# One-Page-Website
-My One-Page Website
+# Alternate One-Page Website
